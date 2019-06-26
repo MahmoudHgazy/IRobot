@@ -9,9 +9,9 @@ answer his question and talk to it need more smart ver and methods  :
 IRobot can Act like Quiz app + some how can collect right answers and wrong answer
 then display it , "but i don't know how"</p>
 <h1>KeyWord</h1>
-<strong>app</strong> <strong>JS</strong> <strong>JavaScript</strong>
-<strong>applaction</strong> <strong>small applaction</strong> <strong>advanced applaction</strong>
-<strong>web applaction</strong> <strong>smart app</strong> <strong>orcale applaction</strong>
-<strong>orcale chatbot</strong> <strong>google</strong> <strong>ask google</strong>
+<strong>app</strong>/ <strong>JS</strong> / <strong>JavaScript</strong>
+<strong>applaction</strong> / <strong>small applaction</strong> / <strong>advanced applaction</strong>
+<strong>web applaction</strong> / <strong>smart app</strong> / <strong>orcale applaction</strong>
+<strong>orcale chatbot</strong> / <strong>google</strong> / <strong>ask google</strong>
   </body>
 </html>
