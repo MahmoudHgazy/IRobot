@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
     body {
       background-color: #d1ff00;
     } 
+    </style>
     </head>
   </body>
 <h1 style="background-color:blue;"># IRobot</h1>
